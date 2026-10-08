@@ -27,7 +27,7 @@ Catatan: menyalakan TV dari kondisi mati total lewat Wi‑Fi hanya bisa jika TV 
 
 ## Build
 
-Butuh Android Studio (atau JDK 17 + Android SDK 35).
+Butuh Android Studio (atau JDK 17 + Android SDK 36).
 
 ```
 ./gradlew assembleDebug

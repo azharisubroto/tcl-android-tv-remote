@@ -6,7 +6,8 @@ local.properties
 .DS_Store
 captures/
 .kotlin/
+keystore.properties
+*.jks
+*.keystore
 *.apk
 *.aab
-*.keystore
-*.jks
